@@ -33,9 +33,9 @@ const ForgotPassword = () => {
     }
 
     return (
-        <main className="min-h-screen bg-slate-200 flex items-center justify-center">
+        <main className="min-h-screen bg-background flex items-center justify-center">
             <body className="antialiased">
-                <div className="max-w-lg mx-auto my-10 bg-white p-8 rounded-xl shadow shadow-slate-300">
+                <div className="max-w-lg mx-auto my-10 bg-white p-8 rounded-xl shadow-md">
                     <section className="flex flex-col items-center justify-center mb-1">
                         <h1 className="text-3xl font-medium">
                             Esqueceu a senha?
